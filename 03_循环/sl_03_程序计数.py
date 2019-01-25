@@ -1,6 +1,6 @@
 # 打印 5 遍 Hello Python
-i = 1
-while i <= 5:
+i = 0
+while i < 5:
     print("Hello Python")
     i += 1
 
